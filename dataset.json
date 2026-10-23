@@ -1,0 +1,1518 @@
+{
+  "metadata": {
+    "as_of": "2026-10-22",
+    "timezone": "America/Chicago",
+    "status": "finished_vetted_snapshot_with_omissions",
+    "paid_services_used": false,
+    "center_lat": 33.019843,
+    "center_lon": -96.698886,
+    "radius_miles": 25,
+    "geography_verified": false,
+    "display_date": "October 22, 2026",
+    "scope_note": "Unclear, expired and unsupported records were omitted. I couldn\u2019t verify every listing in the wider market. Missing trims are ignored; no stock is invented.",
+    "live_updates": false
+  },
+  "dealerships": [
+    {
+      "dealer_id": "T01",
+      "brand": "Toyota",
+      "name": "Toyota of Plano",
+      "address": "6888 Hwy 121, Plano TX 75024",
+      "website": "https://www.toyotaofplano.com/",
+      "address_source": "https://www.toyotaofplano.com/",
+      "radius_status": "third_party_geocode_inside_25_miles",
+      "distance_miles": 9.65,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.0817364,
+      "longitude": -96.848243,
+      "geocode_source": "https://vg.maptons.com/p/13873151352",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "T01",
+      "phone": "888-255-3154",
+      "phone_source": "https://www.toyotaofplano.com/",
+      "reps": [],
+      "contact_status": "Verified business phone. I couldn't find verified named purchase contacts.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "T02",
+      "brand": "Toyota",
+      "name": "Toyota of Richardson",
+      "address": "1221 N Central Expressway, Richardson TX 75080",
+      "website": "https://www.toyotaofrichardson.com/",
+      "address_source": "https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2021_dealer_list.pdf",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 4.17,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 32.96360397338867,
+      "longitude": -96.72507476806642,
+      "geocode_source": "https://www.berkshirehathawayautomotive.com/locations/index.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "T02",
+      "phone": "844-869-9210",
+      "phone_source": "https://www.toyotaofrichardson.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Dexter Tchen",
+          "title": "New Car Director",
+          "source": "https://www.toyotaofrichardson.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "844-869-9210",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Herouy Makonnen",
+          "title": "New Car Manager",
+          "source": "https://www.toyotaofrichardson.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "844-869-9210",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Patrick McClenan",
+          "title": "New Car Sales Manager",
+          "source": "https://www.toyotaofrichardson.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "844-869-9210",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "T03",
+      "brand": "Toyota",
+      "name": "Pat Lobb Toyota of McKinney",
+      "address": "3350 S Central Expressway, McKinney TX 75070",
+      "website": "https://www.toyotaofmckinney.com/",
+      "address_source": "https://www.toyotaofmckinney.com/",
+      "radius_status": "third_party_geocode_inside_25_miles",
+      "distance_miles": 10.69,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.1675338,
+      "longitude": -96.643928,
+      "geocode_source": "https://ms.toponavi.com/places/27670688354",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "T03",
+      "phone": "469-676-8024",
+      "phone_source": "https://www.toyotaofmckinney.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Matt Jirani",
+          "title": "New Car Sales Manager",
+          "source": "https://www.cars.com/dealers/177748/pat-lobb-toyota-of-mckinney/",
+          "review_source": "https://dealerrater.com/sales/Matt-Jirani-review-108501/page6/",
+          "review_note": "Employee directory shows 439 associated reviews; customer accounts describe buying assistance. Counts vary over time and do not prove best performance.",
+          "contact_phone": "469-676-8024",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "documented purchase-facing role and substantial review history, not ranked by quality"
+        },
+        {
+          "name": "George Mogollon",
+          "title": "Senior Product Specialist",
+          "source": "https://www.cars.com/dealers/177748/pat-lobb-toyota-of-mckinney/",
+          "review_source": "https://dealerrater.com/sales/Matt-Jirani-review-108501/page6/",
+          "review_note": "Employee directory shows 510 associated reviews; customer accounts describe buying assistance. Counts vary over time and do not prove best performance.",
+          "contact_phone": "469-676-8024",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "documented purchase-facing role and substantial review history, not ranked by quality"
+        },
+        {
+          "name": "Duane May",
+          "title": "Senior Product Specialist",
+          "source": "https://www.cars.com/dealers/177748/pat-lobb-toyota-of-mckinney/",
+          "review_source": "https://dealerrater.com/sales/Matt-Jirani-review-108501/page6/",
+          "review_note": "Employee directory shows 228 associated reviews; customer accounts describe buying assistance. Counts vary over time and do not prove best performance.",
+          "contact_phone": "469-676-8024",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "documented purchase-facing role and substantial review history, not ranked by quality"
+        }
+      ],
+      "contact_status": "Three purchase-facing contacts corroborated by the dealer-linked review directory; confirm current availability when calling.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "T04",
+      "brand": "Toyota",
+      "name": "Longo Toyota of Prosper",
+      "address": "2100 W University Drive, Prosper TX 75078",
+      "website": "https://www.longotoyotaofprosper.com/",
+      "address_source": "https://www.longotoyotaofprosper.com/new-Prosper-2026-Toyota-Highlander-XLE-5TDKDRBH8TS621721",
+      "radius_status": "third_party_geocode_inside_25_miles",
+      "distance_miles": 15.93,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.22097893553868,
+      "longitude": -96.83336268596722,
+      "geocode_source": "https://agenty.com/marketplace/stores/penske-automotive-dealer-locations-in-the-usa",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "T04",
+      "phone": "972-347-4929",
+      "phone_source": "https://www.longotoyotaofprosper.com/staff.aspx",
+      "reps": [
+        {
+          "name": "Michael Lankford",
+          "title": "Digital New Car Sales Manager",
+          "source": "https://www.longotoyotaofprosper.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-346-5831",
+          "phone_type": "published_direct_business_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Preston Mitchell",
+          "title": "Sales Manager",
+          "source": "https://www.longotoyotaofprosper.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-346-5812",
+          "phone_type": "published_direct_business_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Harvey Portwood",
+          "title": "Used Car Director",
+          "source": "https://www.longotoyotaofprosper.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-346-5825",
+          "phone_type": "published_direct_business_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "C01",
+      "brand": "Chevrolet",
+      "name": "Huffines Chevrolet Plano",
+      "address": "1001 Coit Road, Plano TX 75075",
+      "website": "https://www.huffineschevyplano.com/",
+      "address_source": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 3.99,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 3,
+      "latitude": 33.01335906982422,
+      "longitude": -96.76740264892578,
+      "geocode_source": "https://www.huffinesfleet.com/locations/index.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "C01",
+      "phone": "888-705-5980",
+      "phone_source": "https://www.huffineschevyplano.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Matt Major",
+          "title": "Chevrolet Sales Manager",
+          "source": "https://www.huffineschevyplano.com/dealership/staff.htm",
+          "review_source": "https://www.capitalone.com/cars/dealership/Plano-TX/Ray%2BHuffines%2BChevrolet/6954",
+          "review_note": "A published customer review names Matt Major as sales manager and describes purchase help. Anecdotal; not proof he is the best.",
+          "contact_phone": "888-705-5980",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Steve Butler",
+          "title": "Chevrolet Internet Manager",
+          "source": "https://www.huffineschevyplano.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "888-705-5980",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Brett Clark",
+          "title": "Preowned Sales Manager",
+          "source": "https://www.huffineschevyplano.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "888-705-5980",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "C03",
+      "brand": "Chevrolet",
+      "name": "Stonebriar Chevrolet",
+      "address": "9950 State Hwy 121, Frisco TX 75035",
+      "website": "https://www.stonebriarchevytexas.com/",
+      "address_source": "https://www.kbb.com/dealers/chevrolet/plano-tx/",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 8.07,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.1039074,
+      "longitude": -96.7955832,
+      "geocode_source": "https://external.friscochamber.com/cwt/external/wcpages/wcdirectory/healthdirectory.aspx?action=map&listingid=8756&profileid=4557",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "C03",
+      "phone": "866-535-9928",
+      "phone_source": "https://www.stonebriarchevytexas.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Pete Espinosa",
+          "title": "General Sales Manager",
+          "source": "https://www.stonebriarchevytexas.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "866-535-9928",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Josh Howard",
+          "title": "New Car Manager",
+          "source": "https://www.stonebriarchevytexas.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "866-535-9928",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Ray Monks",
+          "title": "Used Car Director",
+          "source": "https://www.stonebriarchevytexas.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "866-535-9928",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "C05",
+      "brand": "Chevrolet",
+      "name": "Jupiter Chevrolet",
+      "address": "11611 LBJ Freeway, Garland TX 75041",
+      "website": "https://www.jupiterchev.com/",
+      "address_source": "https://www.chevroletcertifiedservicenow.com/Texas/Valley_View/Chevrolet_Certified_Service/Service_And_Maintenance/",
+      "radius_status": "third_party_geocode_inside_25_miles",
+      "distance_miles": 10.14,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 32.8739523,
+      "longitude": -96.679971,
+      "geocode_source": "https://www.whereorg.com/jupiter-chevrolet-inc-16789623",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "C05",
+      "phone": "972-597-2852",
+      "phone_source": "https://www.jupiterchev.com/staff.aspx",
+      "reps": [
+        {
+          "name": "Hoss Headley",
+          "title": "General Sales Manager",
+          "source": "https://www.jupiterchev.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-597-2852",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Santos Cortez",
+          "title": "New and Used Car Retail Director",
+          "source": "https://www.jupiterchev.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-597-2852",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Gabriel Aguilar",
+          "title": "New Car Manager",
+          "source": "https://www.jupiterchev.com/staff.aspx",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-597-2852",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "C07",
+      "brand": "Chevrolet",
+      "name": "Huffines Chevrolet Lewisville",
+      "address": "1400 S Stemmons Freeway, Lewisville TX 75067",
+      "website": "https://www.huffineschevylewisville.com/",
+      "address_source": "https://www.huffineschevylewisville.com/contact.htm",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 16.71,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.02553176879883,
+      "longitude": -96.98725891113283,
+      "geocode_source": "https://www.huffinesfleet.com/locations/index.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "C07",
+      "phone": "888-743-6254",
+      "phone_source": "https://www.huffineschevylewisville.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Henry Farley",
+          "title": "New Car Sales Director",
+          "source": "https://www.huffineschevylewisville.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "888-743-6254",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Israel Barrera",
+          "title": "New Car Sales Manager",
+          "source": "https://www.huffineschevylewisville.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "888-743-6254",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Pat Kenney",
+          "title": "Preowned Sales Director",
+          "source": "https://www.huffineschevylewisville.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "888-743-6254",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "K02",
+      "brand": "Kia",
+      "name": "Kia of Frisco",
+      "address": "10220 State Hwy 121, Frisco TX 75035",
+      "website": "https://www.kiaoffrisco.com/",
+      "address_source": "https://www.kbb.com/dealers/kia/plano-tx/",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 7.95,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.10298538208008,
+      "longitude": -96.7937240600586,
+      "geocode_source": "https://www.lithia.com/locations/texas.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "K02",
+      "phone": "469-922-3219",
+      "phone_source": "https://www.kiaoffrisco.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Hunter Venables",
+          "title": "General Sales Manager",
+          "source": "https://www.kiaoffrisco.com/dealership/staff.htm",
+          "review_source": "https://www.cars.com/dealers/6000236/kia-of-frisco/",
+          "review_note": "Employee directory associates 33 reviews with Hunter Venables. Review count is not a performance ranking.",
+          "contact_phone": "469-922-3219",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Patricia Jointer",
+          "title": "Sales Manager",
+          "source": "https://www.kiaoffrisco.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "469-922-3219",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Two role-verified purchase managers. Arian Haghighat omitted: official page says Sales Manager but review directory says F&I Manager.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "H01",
+      "brand": "Hyundai",
+      "name": "Huffines Hyundai Plano",
+      "address": "909 Coit Road, Plano TX 75075",
+      "website": "https://www.huffineshyundaiplano.com/",
+      "address_source": "https://www.huffineshyundaiplano.com/",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 4.01,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 3,
+      "latitude": 33.0120735168457,
+      "longitude": -96.7674331665039,
+      "geocode_source": "https://www.huffines.net/locations/index.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "H01",
+      "phone": "972-867-5000",
+      "phone_source": "https://www.huffineshyundaiplano.com/dealership/staff.htm",
+      "reps": [
+        {
+          "name": "Lamar Rogers",
+          "title": "General Sales Director",
+          "source": "https://www.huffineshyundaiplano.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-867-5000",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Javier Borja",
+          "title": "Sales Manager",
+          "source": "https://www.huffineshyundaiplano.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-867-5000",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Larry Smith",
+          "title": "Pre-Owned Sales Director",
+          "source": "https://www.huffineshyundaiplano.com/dealership/staff.htm",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "972-867-5000",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified public business phone; ask for named purchase contact.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "H02",
+      "brand": "Hyundai",
+      "name": "Huffines Hyundai McKinney",
+      "address": "1301 N Central Expressway, McKinney TX",
+      "website": "https://www.huffineshyundaimckinney.com/",
+      "address_source": "https://www.huffineshyundaimckinney.com/",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 13.53,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 33.20921545682708,
+      "longitude": -96.63962825767149,
+      "geocode_source": "https://www.huffineshyundaimckinney.com/contact-us/",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "H02",
+      "phone": "469-525-4300",
+      "phone_source": "https://www.huffineshyundaimckinney.com/about-us/staff/",
+      "reps": [
+        {
+          "name": "Joe Rigalli",
+          "title": "Sales Manager",
+          "source": "https://www.huffineshyundaimckinney.com/about-us/staff/",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "469-525-4300",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        },
+        {
+          "name": "Aaron Brown",
+          "title": "Pre-Owned Director",
+          "source": "https://www.huffineshyundaimckinney.com/about-us/staff/",
+          "review_source": null,
+          "review_note": "Official staff page verifies role; individual performance not independently ranked.",
+          "contact_phone": "469-525-4300",
+          "phone_type": "dealership_sales_line",
+          "selection_basis": "purchase/negotiation role; not a best-performance ranking"
+        }
+      ],
+      "contact_status": "Verified role contacts. New car director omitted because page snapshots disagree on Layman/Laymon spelling.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    },
+    {
+      "dealer_id": "H03",
+      "brand": "Hyundai",
+      "name": "Van Hyundai",
+      "address": "1825 N I-35 East, Carrollton TX 75006",
+      "website": "https://www.vanhyundai.com/",
+      "address_source": "https://www.vanhyundai.com/",
+      "radius_status": "verified_inside_25_miles",
+      "distance_miles": 13.29,
+      "inventory_coverage": "partial_not_exhaustive",
+      "checked_date": "2026-10-22",
+      "negotiation_score": null,
+      "best_price_score": null,
+      "vehicle_reliability_history_score": null,
+      "inventory_records": 0,
+      "latitude": 32.96302032470703,
+      "longitude": -96.91796112060547,
+      "geocode_source": "https://www.berkshirehathawayautomotive.com/locations/index.htm",
+      "website_verification": "some_directory_links_not_individually_opened",
+      "id": "H03",
+      "phone": "844-868-3133",
+      "phone_source": "https://www.vanhyundai.com/dealership/staff.htm",
+      "reps": [],
+      "contact_status": "Verified business phone. I couldn't find verified named purchase contacts.",
+      "ranking_note": "Role-based contacts only. I could not establish the three best representatives from comparable independent evidence."
+    }
+  ],
+  "vehicles": [
+    {
+      "vehicle_id": "5NMP24GL9TH168272",
+      "dealer_id": "H01",
+      "model_year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SEL",
+      "powertrain": "gas",
+      "vin": "5NMP24GL9TH168272",
+      "stock_number": "26H0491",
+      "condition": "new",
+      "mileage": null,
+      "seats": 7,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 37540,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "listed_not_confirmed",
+      "packages": "Option Group 01; mats; mudguards; cargo cover",
+      "price_terms": "Posted dealer sale price includes displayed $3,000 Hyundai offer; $500 responder/graduate offers are extra and not deducted. $225 doc fee plus $10 deputy service fee included according to dealer footer. Taxes/title/registration excluded. The detail page does not repeat price; linked dealer specials card is the price source.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-94887af3ac1808b693b4732ebe36da8a.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 87.3,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 18.7,
+      "score_upper_bound": 98.7,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn39view1",
+        "turn40view0"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-94887af3ac1808b693b4732ebe36da8a.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    },
+    {
+      "vehicle_id": "5NMP24GL6TH193517",
+      "dealer_id": "H01",
+      "model_year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SEL",
+      "powertrain": "gas",
+      "vin": "5NMP24GL6TH193517",
+      "stock_number": "26H1104",
+      "condition": "new",
+      "mileage": null,
+      "seats": 7,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 37170,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "listed_not_confirmed",
+      "packages": "Option Group 01; roof crossbars; cargo organizer; mats",
+      "price_terms": "Posted dealer sale price includes displayed $3,000 Hyundai offer; $500 responder/graduate offers are extra and not deducted. $225 doc fee plus $10 deputy service fee included according to dealer footer. Taxes/title/registration excluded. The detail page does not repeat price; linked dealer specials card is the price source.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-ac21ee15ac18033f489a07cf50821f3f.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 89.2,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 18.9,
+      "score_upper_bound": 98.9,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn39view1",
+        "turn40view1"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-ac21ee15ac18033f489a07cf50821f3f.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    },
+    {
+      "vehicle_id": "3GN7DNRP5SS263779",
+      "dealer_id": "C01",
+      "model_year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "trim": "LT",
+      "powertrain": "electric",
+      "vin": "3GN7DNRP5SS263779",
+      "stock_number": "25C1121",
+      "condition": "new",
+      "mileage": 5,
+      "seats": 5,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 42825,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "in_transit",
+      "packages": "Evotex; Black",
+      "price_terms": "Posted sale price includes $225 doc fee and $10 deputy service fee. Displayed $1,000 Chevrolet offer is included; extra $500 conditional offers are not deducted. Taxes, title and registration excluded.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineschevyplano.com/new/Chevrolet/2025-Chevrolet-Equinox-EV-b34aff37ac18248d612587a38556bcd0.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 60.9,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 16.1,
+      "score_upper_bound": 96.1,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn40view2",
+        "turn41view0"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineschevyplano.com/new/Chevrolet/2025-Chevrolet-Equinox-EV-b34aff37ac18248d612587a38556bcd0.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    },
+    {
+      "vehicle_id": "3GN7DNRP0SS263785",
+      "dealer_id": "C01",
+      "model_year": 2025,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "trim": "LT",
+      "powertrain": "electric",
+      "vin": "3GN7DNRP0SS263785",
+      "stock_number": "25C1119",
+      "condition": "new",
+      "mileage": 5,
+      "seats": 5,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 42825,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "in_transit",
+      "packages": "Evotex; Sterling Gray",
+      "price_terms": "Posted sale price includes $225 doc fee and $10 deputy service fee. Displayed $1,000 Chevrolet offer is included; extra $500 conditional offers are not deducted. Taxes, title and registration excluded.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineschevyplano.com/new/Chevrolet/2025-Chevrolet-Equinox-EV-b807cf90ac18597de54fd855b8808180.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 60.9,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 16.1,
+      "score_upper_bound": 96.1,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn40view2",
+        "turn41view1"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineschevyplano.com/new/Chevrolet/2025-Chevrolet-Equinox-EV-b807cf90ac18597de54fd855b8808180.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    },
+    {
+      "vehicle_id": "3GN7DSRP9TS123461",
+      "dealer_id": "C01",
+      "model_year": 2026,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "trim": "RS",
+      "powertrain": "electric",
+      "vin": "3GN7DSRP9TS123461",
+      "stock_number": "26C0791",
+      "condition": "new",
+      "mileage": 4,
+      "seats": 5,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 48800,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "on_lot_dealer_claim",
+      "packages": "Evotex; Red",
+      "price_terms": "Posted sale price includes $225 doc fee and $10 deputy service fee. Displayed $1,000 Chevrolet offer is included; extra $500 conditional offers are not deducted. Taxes, title and registration excluded.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineschevyplano.com/new/Chevrolet/2026-Chevrolet-Equinox-EV-4c3971ccac184db46fa63ee4e0a9c7df.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 31.0,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 13.1,
+      "score_upper_bound": 93.1,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn40view2",
+        "turn41view2"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineschevyplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineschevyplano.com/new/Chevrolet/2026-Chevrolet-Equinox-EV-4c3971ccac184db46fa63ee4e0a9c7df.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    },
+    {
+      "vehicle_id": "5NMP24GL6TH193498",
+      "dealer_id": "H01",
+      "model_year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "SEL",
+      "powertrain": "gas",
+      "vin": "5NMP24GL6TH193498",
+      "stock_number": "26H1103",
+      "condition": "new",
+      "mileage": null,
+      "seats": 7,
+      "drivetrain": "FWD",
+      "advertised_price_usd": 37170,
+      "price_status": "dealer_posted_asking_price_verified",
+      "availability_status": "listed_not_confirmed",
+      "packages": "Shimmering Silver; Option Group 01; floor mats; cargo net/organizer/tray; roof crossbars; first aid kit",
+      "price_terms": "Posted dealer sale price includes displayed $3,000 Hyundai offer; $500 responder/graduate offers are extra and not deducted. $225 doc fee plus $10 deputy service fee included according to dealer footer. Taxes/title/registration excluded. The detail page does not repeat price; linked dealer specials card is the price source.",
+      "doc_fee_usd": 235,
+      "doc_included": true,
+      "offer_expiry": null,
+      "listing_url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-ac21f05bac18383f9fb5848fb7080a5d.htm",
+      "checked_date": "2026-10-22",
+      "history_status": "not_applicable_new",
+      "recall_vin_check": "not_completed",
+      "out_the_door_quote_usd": null,
+      "negotiated_target_usd": null,
+      "negotiated_target_status": "insufficient_exact_trim_transaction_evidence",
+      "budget_band": "target",
+      "current_price_usable": true,
+      "reliability_score": null,
+      "longevity_score": null,
+      "value_score": null,
+      "price_score": 89.2,
+      "features_score": null,
+      "history_score": 100,
+      "score_evidence_coverage_pct": 20,
+      "score_lower_bound": 18.9,
+      "score_upper_bound": 98.9,
+      "overall_score": null,
+      "score_status": "incomplete_do_not_rank_by_bound",
+      "longevity_score_basis": null,
+      "longevity_source": null,
+      "body_category": "SUV",
+      "history_penalty_pending": false,
+      "estimated_otd_usd": null,
+      "verification_status": "Primary dealer specials card price matched to linked VIN detail and seating; not a signed OTD quote",
+      "price_source_url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+      "source_refs": [
+        "turn39view1",
+        "turn43view2",
+        "turn44view4"
+      ],
+      "verified_date": "2026-10-22",
+      "availability_confirmation": "Dealer listing only; no phone confirmation",
+      "sources": [
+        {
+          "url": "https://www.huffineshyundaiplano.com/featured-vehicles/new.htm",
+          "purpose": "advertised selling price"
+        },
+        {
+          "url": "https://www.huffineshyundaiplano.com/new/Hyundai/2026-Hyundai-Santa-Fe-ac21f05bac18383f9fb5848fb7080a5d.htm",
+          "purpose": "VIN, trim, seating, drivetrain"
+        }
+      ]
+    }
+  ],
+  "historical_deals": [
+    {
+      "deal_id": "D001",
+      "model_year": 2026,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "LE FWD",
+      "reported_price_usd": 30000,
+      "price_basis": "out_the_door",
+      "region": "Dallas TX",
+      "reported_date": null,
+      "source_url": "https://www.reddit.com/r/Camry/comments/1q5lpn0/nj_what_was_your_otd_price_for_a_20252026_toyota/",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Convenience package; seller/date not verified. Do not assume same price today.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D002",
+      "model_year": 2025,
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "XLE Premium",
+      "reported_price_usd": 39500,
+      "price_basis": "out_the_door",
+      "region": "Texas",
+      "reported_date": null,
+      "source_url": "https://www.reddit.com/r/Camry/comments/1n5aqq3/if_you_bought_a_2025_camry_recently_what_is_the/",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Wind Chill Pearl. Buyer report; exact fee breakdown absent.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D003",
+      "model_year": 2025,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "EX",
+      "reported_price_usd": 40830,
+      "price_basis": "out_the_door",
+      "region": "not established",
+      "reported_date": "2025-06",
+      "source_url": "https://www.reddit.com/r/KiaSorento/comments/1lpcu4e",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Buyer says add-ons removed; $1,400 reduction. Tax region unknown.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D004",
+      "model_year": 2025,
+      "make": "Kia",
+      "model": "Sorento",
+      "trim": "S",
+      "reported_price_usd": 36000,
+      "price_basis": "out_the_door_context_unconfirmed",
+      "region": "Lake City",
+      "reported_date": "2025-06",
+      "source_url": "https://www.reddit.com/r/KiaSorento/comments/1l3n1c0",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Sunroof; confirm whether reply amount includes tax before using.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D005",
+      "model_year": 2026,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX",
+      "reported_price_usd": 42006,
+      "price_basis": "out_the_door",
+      "region": "not established",
+      "reported_date": "2026-04",
+      "source_url": "https://www.reddit.com/r/KiaSorento/comments/1sr8j2t/we_have_joined_the_sorento_society_got_a_better/",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Cash buyer; cites $2,500 Kia cash and dealer discount. Old incentives cannot carry forward.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D006",
+      "model_year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "trim": "Calligraphy AWD",
+      "reported_price_usd": 49100,
+      "price_basis": "out_the_door",
+      "region": "Maryland",
+      "reported_date": "2025-03",
+      "source_url": "https://www.reddit.com/r/HyundaiSantaFe/comments/1k5mprj/how_much_did_you_pay_for_your_2025_santa_fe/",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Buyer says 6% tax and $799 doc included; hitch/mats/trunk cover. Different state.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D007",
+      "model_year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "trim": "Calligraphy",
+      "reported_price_usd": 44800,
+      "price_basis": "before_tax_and_fees",
+      "region": "not established",
+      "reported_date": "2025-08",
+      "source_url": "https://www.reddit.com/r/HyundaiSantaFe/comments/1mtsdi4",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Buyer claims 0% financing; drivetrain not established. Financing trade-off must be rechecked.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D008",
+      "model_year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "trim": "Calligraphy",
+      "reported_price_usd": 50000,
+      "price_basis": "out_the_door",
+      "region": "Texas",
+      "reported_date": "2025-06",
+      "source_url": "https://www.reddit.com/r/HyundaiSantaFe/comments/1la21jk",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Non-hybrid; buyer report, dealer not named.",
+      "transferable_to_current_local_inventory": false
+    },
+    {
+      "deal_id": "D009",
+      "model_year": 2025,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "trim": "SX Prestige",
+      "reported_price_usd": 40500,
+      "price_basis": "out_the_door",
+      "region": "North Carolina",
+      "reported_date": null,
+      "source_url": "https://kiasportageforums.com/threads/what-did-you-pay-for-your-new-new-kia-sportage.405/",
+      "evidence_type": "buyer_self_report_not_independently_verified",
+      "notes": "Different tax region and prior year; do not compare to gas SX Prestige directly.",
+      "transferable_to_current_local_inventory": false
+    }
+  ],
+  "reliability_evidence": [
+    {
+      "evidence_id": "R01",
+      "make": "Toyota",
+      "model": "Camry Hybrid",
+      "applies_to": "historical model family; not a 2026-specific prediction",
+      "finding": "2026 study estimates 11.5% reaching 250,000 miles versus overall 5.4%; observational/modelled, not a warranty.",
+      "source_url": "https://www.iseecars.com/longest-lasting-cars-study",
+      "score_use": "Longevity rubric band 80; reliability component remains unknown"
+    },
+    {
+      "evidence_id": "R02",
+      "make": "Toyota",
+      "model": "Highlander Hybrid",
+      "applies_to": "historical hybrid model family only",
+      "finding": "Study estimates 20.7% reaching 250,000 miles. Do not transfer this to current gas turbo Highlander.",
+      "source_url": "https://www.iseecars.com/longest-lasting-cars-study",
+      "score_use": "No scored hybrid Highlander inventory verified yet"
+    },
+    {
+      "evidence_id": "R03",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "applies_to": "certain 2024 gas DCT VINs; predecessor evidence",
+      "finding": "Recall 24V529 concerns transmission software/damage. Not evidence that every 2025 or 2026 is recalled.",
+      "source_url": "https://static.nhtsa.gov/odi/rcl/2024/RCONL-24V529-7842.pdf",
+      "score_use": "Flag model-year/powertrain differences; individual VIN checks pending"
+    },
+    {
+      "evidence_id": "R04",
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "applies_to": "2026 gas",
+      "finding": "Manufacturer lists 8-speed automatic. Do not apply predecessor DCT concerns unchanged to this transmission.",
+      "source_url": "https://www.hyundaiusa.com/us/en/vehicles/2026-santa-fe",
+      "score_use": "New transmission lacks long-term 2026 outcomes; do not award proven longevity"
+    },
+    {
+      "evidence_id": "R05",
+      "make": "Hyundai",
+      "model": "IONIQ 5 / IONIQ 6",
+      "applies_to": "certain 2022-24 IONIQ 5 and 2023-25 IONIQ 6",
+      "finding": "Recall 272 / 24V868 addresses ICCU, fuse and software. Need VIN applicability and completion, not a blanket current-year penalty.",
+      "source_url": "https://static.nhtsa.gov/odi/rcl/2024/RCRIT-24V868-2367.pdf",
+      "score_use": "Reference for future EV candidates; no unsupported model-year transfer"
+    },
+    {
+      "evidence_id": "R06",
+      "make": "all",
+      "model": "used vehicles",
+      "applies_to": "each used VIN",
+      "finding": "No paid history reports purchased. Certification is a dealer claim; title, crash, flood, maintenance and ownership remain unknown.",
+      "source_url": "https://www.nhtsa.gov/recalls",
+      "score_use": "History unknown; overall score withheld"
+    }
+  ],
+  "dealer_evidence": [
+    {
+      "dealer_id": "C01",
+      "metric": "third_party_transparency",
+      "score": 99,
+      "sample_quotes": 12,
+      "doc_fee": 225,
+      "source_url": "https://caredge.com/dealer/huffines-chevrolet-plano--tx-plano",
+      "notes": "CarEdge snapshot: no mandatory add-ons reported. Transparency is not negotiation success or vehicle reliability."
+    },
+    {
+      "dealer_id": "T04",
+      "metric": "third_party_transparency",
+      "score": 92,
+      "sample_quotes": 44,
+      "doc_fee": 225,
+      "source_url": "https://caredge.com/dealer/longo-toyota-of-prosper--tx-prosper",
+      "notes": "Opened page differs from search snippet (46 quotes); preserve opened snapshot. Mean add-ons when present $344. Not directly comparable to 12-quote dealer."
+    },
+    {
+      "dealer_id": "K02",
+      "metric": "listing_disclosure",
+      "score": null,
+      "sample_quotes": null,
+      "doc_fee": 225,
+      "source_url": "https://www.kiaoffrisco.com/new/Kia/2026-Kia-Sportage-d9616db6ac180512c836d019ffe84a23.htm",
+      "notes": "Advertised price conditional on financing; optional add-ons total $5,778. This is a specific listing observation, not dealer-wide misconduct evidence."
+    }
+  ],
+  "omissions": [
+    {
+      "label": "2026 Hyundai Santa Fe SEL \u00b7 5NMP24GL7TH157156",
+      "reason": "I couldn't reconfirm all necessary details in this review."
+    },
+    {
+      "label": "2025 Hyundai Tucson SEL Convenience \u00b7 5NMJC3DE9SH483543",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Chevrolet Traverse LT \u00b7 1GNERGKS3TJ291232",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Chevrolet Traverse LT \u00b7 1GNERGKS4TJ394076",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Kia Sportage LX \u00b7 5XYK23DF6TG420900",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Kia Sportage SX \u00b7 5XYK43DF6TG471999",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Kia Sportage SX-Prestige \u00b7 5XYK53DF6TG425974",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Kia Sportage X-Line \u00b7 KNDPYDDH8T7368162",
+      "reason": "The displayed offer is expired; I couldn't find a current verified price."
+    },
+    {
+      "label": "2026 Kia Sorento EX \u00b7 KNDRJDJH7T5491755",
+      "reason": "The displayed offer is expired; I couldn't find a current verified price."
+    },
+    {
+      "label": "2027 Kia Sportage X-Line Prestige \u00b7 KNDPZDDH3V7418692",
+      "reason": "The displayed offer is expired; I couldn't find a current verified price."
+    },
+    {
+      "label": "2026 Kia Carnival SX Prestige \u00b7 KNDNE5K34T6631718",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival EX \u00b7 KNDNC5K31T6636946",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival SX \u00b7 KNDNE5K35T6637656",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival SX Prestige \u00b7 KNDNE5K38T6647548",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival SX Prestige \u00b7 KNDNE5K3XT6628144",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival EX \u00b7 KNDNC5K3XT6614816",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Kia Carnival EX \u00b7 KNDNC5K31T6619242",
+      "reason": "I couldn't verify the search-index selling price on the dealer listing."
+    },
+    {
+      "label": "2026 Toyota Sienna XLE \u00b7 5TDYRKEC6TS42E408",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Sienna XLE \u00b7 5TDYRKECXTS44C765",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Camry LE \u00b7 T01-TU369844",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Camry LE \u00b7 T01-TU912195",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Camry Nightshade \u00b7 T01-TU795648",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Camry Nightshade \u00b7 T01-TU362988",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota Camry SE \u00b7 4T1DAACK4TU797010",
+      "reason": "I couldn't reconfirm all necessary details in this review."
+    },
+    {
+      "label": "2026 Toyota Highlander XLE \u00b7 5TDKDRBH8TS621721",
+      "reason": "I couldn't reconfirm all necessary details in this review."
+    },
+    {
+      "label": "2026 Hyundai Tucson SEL Premium \u00b7 5NMJCCDE4TH787736",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Hyundai Tucson SEL Convenience \u00b7 KM8JCDD17TU535857",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Hyundai Tucson SE \u00b7 5NMJA3DE9TH630077",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Tucson SE \u00b7 5NMJA3DE9TH632234",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Santa Fe SE \u00b7 5NMP14GL4TH220362",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Hyundai Santa Fe SE \u00b7 5NMP14G10TH074623",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Santa Fe SE \u00b7 5NMP14G14TH078237",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Tucson Limited \u00b7 KM8JEDD1XTU536611",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2025 Hyundai Palisade SEL Premium \u00b7 KM8R44GE9SU919278",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Santa Fe Calligraphy \u00b7 5NMP5DG11TH073582",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Tucson SEL \u00b7 KM8JBDD10TU537436",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Hyundai Tucson Limited \u00b7 KM8JEDD13TU536515",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Hyundai Tucson Limited \u00b7 KM8JEDD14TU533591",
+      "reason": "I couldn't verify selling-price basis and full vehicle details beyond an inventory feed."
+    },
+    {
+      "label": "2026 Toyota RAV4 XLE Premium \u00b7 2T36DRBV9TC024861",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Toyota RAV4 Limited \u00b7 2T36CRAV4TW120884",
+      "reason": "I couldn't reconfirm all necessary details in this review."
+    },
+    {
+      "label": "2026 Toyota RAV4 GR SPORT \u00b7 JTM7ERAV4TD029710",
+      "reason": "I couldn't reconfirm all necessary details in this review."
+    },
+    {
+      "label": "2026 Chevrolet Traverse LT 1LT \u00b7 1GNERGKS4TJ222551",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Chevrolet Traverse LT 1LT \u00b7 1GNERGKS8TJ145456",
+      "reason": "I couldn't verify full used-vehicle history from free details; omitted under strict evidence rule."
+    },
+    {
+      "label": "2026 Hyundai Tucson SE \u00b7 5NMJA3DE4TH694303",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "2026 Chevrolet Equinox  \u00b7 3GNAXSEG6TL473613",
+      "reason": "I couldn't find a verified trim."
+    },
+    {
+      "label": "2026 Chevrolet Traverse  \u00b7 1GNEVLKS0TJ400654",
+      "reason": "I couldn't find a verified trim."
+    },
+    {
+      "label": "2026 Chevrolet Equinox EV  \u00b7 3GN7DNRP1TS125240",
+      "reason": "I couldn't find a verified trim."
+    },
+    {
+      "label": "2026 Chevrolet Blazer LT \u00b7 3GNKDARM2TS100887",
+      "reason": "Optional add-ons, fees or finance terms remain unresolved; omitted under strict rule."
+    },
+    {
+      "label": "Toyota of Dallas / Legacy Toyota of Dallas",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Norm Reeves Toyota Dallas",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Lone Star Toyota of Lewisville",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Toyota of Rockwall",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Toyota of Irving",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Texas Toyota of Grapevine",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Reliable Chevrolet",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "El Dorado Chevrolet",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Friendly Chevrolet",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Clay Cooley Kia of Plano (formerly Central Kia)",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Huffines Kia McKinney",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Classic Kia Carrollton",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Mesquite Kia",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Rockwall Kia",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Clay Cooley Hyundai Mesquite",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Clay Cooley Hyundai Rockwall",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Clay Cooley Hyundai Dallas",
+      "reason": "I couldn\u2019t verify all required business-phone, location and radius details. Omitted from the dealership directory."
+    },
+    {
+      "label": "Toyota of Plano \u00b7 three buying contacts",
+      "reason": "I couldn\u2019t verify three suitable named buying contacts or establish an objective top-three ranking. Only supported contacts are shown."
+    },
+    {
+      "label": "Kia of Frisco \u00b7 three buying contacts",
+      "reason": "I couldn\u2019t verify three suitable named buying contacts or establish an objective top-three ranking. Only supported contacts are shown."
+    },
+    {
+      "label": "Huffines Hyundai McKinney \u00b7 three buying contacts",
+      "reason": "I couldn\u2019t verify three suitable named buying contacts or establish an objective top-three ranking. Only supported contacts are shown."
+    },
+    {
+      "label": "Van Hyundai \u00b7 three buying contacts",
+      "reason": "I couldn\u2019t verify three suitable named buying contacts or establish an objective top-three ranking. Only supported contacts are shown."
+    }
+  ]
+}
